@@ -1,0 +1,22 @@
+# Android/Gradle
+.gradle/
+build/
+**/build/
+
+# Local machine config
+local.properties
+.idea/
+*.iml
+
+# Logs / profiling
+*.log
+*.hprof
+java_pid*.hprof
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local Gradle downloads/tools accidentally added
+gradle-*.zip
+gradle-*/
